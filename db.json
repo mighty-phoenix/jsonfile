@@ -1,0 +1,14 @@
+{
+  "taskList": [
+    "<li id=\"task-1\" class=\"list-group-item striketask bg-success\">1. Grocery Buying<\/li>",
+    "<li id=\"task-2\" class=\"list-group-item striketask bg-success\">2. Excercise<\/li>",
+    "<li id=\"task-3\" class=\"list-group-item striketask bg-success\">3. Movie time!<\/li>",
+    "<li id=\"task-4\" class=\"list-group-item striketask bg-success\">4. Call Theo.<\/li>"
+  ],
+  "taskDoneList": [
+    "<li id=\"task-5\" class=\"list-group-item unstriketask bg-success\">5. Take a bath.<\/li>",
+    "<li id=\"task-6\" class=\"list-group-item unstriketask bg-success\">6. Lunch.<\/li>",
+    "<li id=\"task-7\" class=\"list-group-item unstriketask bg-success\">7. Complete project work.<\/li>",
+    "<li id=\"task-8\" class=\"list-group-item unstriketask bg-success\">8. Clean the room.<\/li>"
+    ]
+}
